@@ -1,5 +1,5 @@
 ---
-title: Start with a Template
+title: Start with a Templat
 group: intro
 weight: 10
 ---
